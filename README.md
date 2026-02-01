@@ -15,3 +15,5 @@ A simple and responsive login page built with **pure HTML & CSS** (no framework)
 3. Integrate with your backend (PHP / CI3 / etc.)
 
 © 2026
+
+Live Preview : https://kuntolabz.github.io/page-login/
